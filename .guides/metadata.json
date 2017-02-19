@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "id": "8157a88e-4af0-7163-0796-df8f6c708be2",
+   "title": "Computer Networks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-Networks-8157.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9e258eb3-aeca-6bc8-2bdb-62cc711a1474",
+   "title": "Computer Networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-Networks-9e25.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a5848808-9ac8-6a25-497d-ad2f04965901",
+   "title": "Computer Networks - Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-Networks---Activity-a584.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "886523a4-46e7-ea6f-40c7-d3b25646bcdb",
+   "title": "Networks Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Networks-Quiz-8865.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

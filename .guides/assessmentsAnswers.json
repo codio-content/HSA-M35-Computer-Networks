@@ -1,0 +1,67 @@
+[
+ {
+  "taskId": "multiple-choice-1888434330",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-4231928582",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-2038116598",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-3398818918",
+  "points": 0,
+  "state": {
+   "active": "a157610b-cf1a-5eb8-4f7d-c951865edb45"
+  },
+  "results": [
+   {
+    "current": [
+     "a157610b-cf1a-5eb8-4f7d-c951865edb45"
+    ],
+    "right": [
+     "a77135ef-2758-9f7e-47f3-602ab00d4d52"
+    ],
+    "timestamp": 1487537258311
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-3464668477",
+  "points": 0,
+  "state": {
+   "active": [
+    "ab9eeb25-e635-ccb9-a196-f61093f14505"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "ab9eeb25-e635-ccb9-a196-f61093f14505"
+    ],
+    "right": [
+     "3465d02a-a815-c5cf-ecb5-e4ece9f6a2ff",
+     "91ba6178-28e7-7d45-e07c-df4702e063cb",
+     "aa6df3d3-d73d-c672-a44b-fa19914566d9",
+     "421925b5-417d-dbba-6011-14fe4cccfad9"
+    ],
+    "timestamp": 1487537266882
+   }
+  ]
+ }
+]
